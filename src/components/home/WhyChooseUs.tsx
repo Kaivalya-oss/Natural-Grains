@@ -3,11 +3,11 @@ import { Reveal } from "@/components/ui/Reveal";
 
 const items = [
   { icon: Award, title: "Premium Quality", text: "Hand-selected paddy from the most fertile growing regions, aged to maximize flavour and elongation." },
-  { icon: Cog, title: "Advanced Processing", text: "Sortex-cleaned, double polished, and moisture-controlled milling in modern facilities." },
+  { icon: Cog, title: "Advanced Processing", text: "Sortex-cleaned and moisture-controlled milling in modern facilities." },
   { icon: ShieldCheck, title: "Hygienic Packaging", text: "Vacuum and BOPP packaging meeting international food-grade standards for long transit." },
   { icon: Wheat, title: "Trusted Supply Chain", text: "Direct partnerships with 1,200+ verified farms ensure traceability from field to container." },
   { icon: Award, title: "Consistent Grading", text: "Every batch is laboratory-tested for length, moisture, broken percentage and aroma profile." },
-  { icon: Truck, title: "Timely Delivery", text: "Container-ready logistics with documented export experience to 60+ destinations." },
+  { icon: Truck, title: "Timely Delivery", text: "Container-ready logistics with documented experience to 60+ destinations." },
 ];
 
 export function WhyChooseUs() {

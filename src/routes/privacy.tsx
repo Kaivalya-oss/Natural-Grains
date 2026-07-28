@@ -67,7 +67,7 @@ function PrivacyPolicy() {
           <ul className="list-disc pl-6 mb-8 space-y-2 text-ink/80">
             <li>Respond to inquiries and customer requests.</li>
             <li>Provide information about our rice products and services.</li>
-            <li>Communicate regarding distributorships, wholesale orders, export opportunities, or business partnerships.</li>
+            <li>Communicate regarding distributorships, wholesale orders, or business partnerships.</li>
             <li>Improve our website, products, and customer experience.</li>
             <li>Analyze website performance and visitor engagement.</li>
             <li>Maintain internal business records.</li>

@@ -80,16 +80,16 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale, retail, and export markets.",
+          "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale and retail markets.",
       },
       { name: "author", content: "Natural Grains" },
       { property: "og:type", content: "website" },
       { property: "og:site_name", content: "Natural Grains" },
       { property: "og:title", content: "Natural Grains | Premium Rice Manufacturer" },
-      { property: "og:description", content: "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale, retail, and export markets." },
+      { property: "og:description", content: "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale and retail markets." },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "Natural Grains | Premium Rice Manufacturer" },
-      { name: "twitter:description", content: "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale, retail, and export markets." },
+      { name: "twitter:description", content: "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale and retail markets." },
     ],
     links: [
       { rel: "icon", href: "/favicon.ico" },
@@ -111,7 +111,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "@type": "Organization",
           name: "Natural Grains",
           description:
-            "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale, retail, and export markets.",
+            "Natural Grains is a trusted premium rice manufacturer and supplier, delivering high-quality rice for wholesale and retail markets.",
           foundingDate: "1978",
         }),
       },

@@ -2,24 +2,24 @@ import { Reveal } from "@/components/ui/Reveal";
 
 const quotes = [
   {
-    q: "Natural Grains's basmati has been our retail benchmark for seven years. Consistency, paperwork and on-time shipping - flawless.",
-    n: "Markus Lehmann",
-    r: "Head of Procurement, Continental Retail Group",
+    q: "Natural Grains always delivers on time, making them my first choice. Great service and dependable quality!",
+    n: "Akarsh Patel",
+    r: "Customer",
   },
   {
-    q: "We supply 240 restaurants across the Gulf. Natural Grains is the only exporter we have never had to switch away from.",
-    n: "Aisha Al-Mansouri",
-    r: "Director, Al-Mansouri Foodservice",
+    q: "Natural Grains Jeera Rice cooks perfectly and has an excellent taste. It's the ideal choice for everyday meals flavorful, wholesome, and easy to digest.",
+    n: "Sharad Lodha",
+    r: "Customer",
   },
   {
-    q: "Their sella grade is the cleanest we receive from the subcontinent. The cooking yield is reliably 10% above competitors.",
-    n: "Jean-Pierre Reyes",
-    r: "Master Chef & Owner, Maison Réyes",
+    q: "Premium quality with remarkable consistency. Every order has exceeded my expectations, making it a brand I trust.",
+    n: "Rajesh Agrawal",
+    r: "Customer",
   },
   {
-    q: "From 5kg retail pouches to 50kg bulk - every spec we ask for arrives exactly as agreed. A true B2B partner.",
-    n: "Priya Venkatesh",
-    r: "Export Manager, Pacific Foods Ltd.",
+    q: "A brand that genuinely cares about its retailers. Their professionalism and support make them a preferred business partner.",
+    n: "V-Mart",
+    r: "Retail Partner",
   },
 ];
 

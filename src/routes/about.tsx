@@ -12,13 +12,13 @@ export const Route = createFileRoute("/about")({
       {
         name: "description",
         content:
-          "Four decades of mastery in premium rice cultivation and export. Learn about our story, mission, vision and quality protocols.",
+          "Four decades of mastery in premium rice cultivation. Learn about our story, mission, vision and quality protocols.",
       },
       { property: "og:title", content: "About - Natural Grains" },
       {
         property: "og:description",
         content:
-          "Four decades of mastery in premium rice cultivation and global export.",
+          "Four decades of mastery in premium rice cultivation and distribution.",
       },
       { property: "og:url", content: "/about" },
     ],

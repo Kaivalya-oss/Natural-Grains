@@ -20,7 +20,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Premium basmati, long grain, steam, sella and brown rice exported to 60+ countries. Trusted by distributors, retailers and restaurants worldwide.",
+          "Premium basmati, long grain, steam, sella and brown rice delivered to 60+ countries. Trusted by distributors, retailers and restaurants worldwide.",
       },
       { property: "og:title", content: "Natural Grains - Healthy Grains Happy Life" },
       {

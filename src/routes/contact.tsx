@@ -11,7 +11,7 @@ export const Route = createFileRoute("/contact")({
       {
         name: "description",
         content:
-          "Speak with our team. Distributors, retailers, restaurants and exporters - we respond to all inquiries within 24 hours.",
+          "Speak with our team. Distributors, retailers and restaurants - we respond to all inquiries within 24 hours.",
       },
       { property: "og:title", content: "Contact - Natural Grains" },
       {

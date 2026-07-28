@@ -18,7 +18,7 @@ export function Products() {
               </h2>
             </div>
             <p className="max-w-md text-sm leading-relaxed text-canvas/55">
-              Five signature varieties available in retail packs and bulk export sizes.
+              Four signature varieties available in retail packs and bulk sizes.
               Custom private-label packaging available on request.
             </p>
           </div>
